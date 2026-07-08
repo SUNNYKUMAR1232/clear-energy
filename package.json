@@ -1,0 +1,14 @@
+{
+  "name": "clear-energy",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "customer": "npm start --workspace=apps/customer",
+    "driver": "npm start --workspace=apps/driver",
+    "admin": "npm start --workspace=apps/admin-mobile"
+  }
+}
