@@ -38,10 +38,14 @@ This workspace contains three React Native applications built for Clear Energy: 
     *   `shared-package`: Writing the boilerplate for the `fetchJSON` wrapper and TypeScript typings.
     *   `screen`: Translating the HTML/Tailwind mockup aesthetics into pure React Native components with pixel-perfect fidelity.
 
+## Preview 
+https://github.com/user-attachments/assets/584f0c76-94ee-43fb-8505-0732ac27d885
+
+
 ## ⏱️ Time Spent
 
 *   **Actual Hours Spent**: ~2 hours. Focused heavily on ensuring the shared architecture was watertight before applying the visual polish.
 
----
-"# clear-energy" 
-"# clear-energy" 
+
+
+
